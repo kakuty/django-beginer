@@ -3,4 +3,11 @@ Lib
 Include
 pip-selfcheck.json
 pyvenv.cfg
+
+*.pyc
+*~
+__pycache__
+myvenv
 db.sqlite3
+/static
+.DS_Store
